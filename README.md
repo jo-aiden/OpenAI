@@ -1,5 +1,5 @@
 # GET STARTED
-## [Introduction](https://github.com/jo-aiden/OpenAI\GET STARTED\Introduction.md)
+## [Introduction](https://github.com/jo-aiden/OpenAI\GET%20STARTED\Introduction.md)
 - #### Key Concepts
 
 ## Quickstart
