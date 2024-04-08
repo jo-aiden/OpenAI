@@ -1,16 +1,19 @@
-# GET STARTED
-## [Introduction](https://github.com/jo-aiden/OpenAI\GET%20STARTED\Introduction.md)
-- #### Key Concepts
+# Documentation
+## 1. GET STARTED
+### [1-1. Introduction](https://github.com/jo-aiden/OpenAI/blob/main/GET%20STARTED/Introduction.md)
+- ##### Key Concepts
 
-## Quickstart
-## Models
-## Tutorials
-## Changelog
+### 1-2. Quickstart
+### 1-3. Models
+### 1-4. Tutorials
+### 1-5. Changelog
 
-# CAPABILITIES
+## 2. CAPABILITIES
 
-# ASSISTANTS
+## 3. ASSISTANTS
 
-# GUIDES
+## 4. GUIDES
 
-# CHATGPT
+## 5. CHATGPT
+
+# API reference
