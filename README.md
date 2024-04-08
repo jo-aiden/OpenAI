@@ -1,5 +1,5 @@
-# Introduction
-## [Introduction](https://github.com/jo-aiden/OpenAI/edit/main/README.md)
+# GET STARTED
+## [Introduction](https://github.com/jo-aiden/OpenAI\GET STARTED\Introduction.md)
 - #### Key Concepts
 
 ## Quickstart
@@ -14,6 +14,3 @@
 # GUIDES
 
 # CHATGPT
-
-
-Studying for Open AI
